@@ -19,6 +19,7 @@ export default StyleSheet.create({
   },
   actionTitle: {
     fontSize: 13,
+    color: '#000',
   },
   item: {
     flexDirection: 'row',
