@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "name": "Mobile Phones",
+    "description": "Explore a wide range of mobile phones from top brands.",
+    "image": "https://iplanet.one/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Iphone Phones",
+        "categories": [
+          {
+            "id": 1,
+            "category_id": 1,
+            "name": "Iphone 13",
+            "categories": [
+              {
+                "id": 1,
+                "category_id": 1,
+                "name": "Iphone 13 mini"
+              },
+              {
+                "id": 2,
+                "category_id": 1,
+                "name": "Iphone 13 pro"
+              },
+              {
+                "id": 3,
+                "category_id": 1,
+                "name": "Iphone 13 pro max"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "category_id": 1,
+            "name": "Iphone 14",
+            "categories": [
+              {
+                "id": 1,
+                "category_id": 1,
+                "name": "Iphone 14 mini"
+              },
+              {
+                "id": 2,
+                "category_id": 1,
+                "name": "Iphone 14 pro"
+              },
+              {
+                "id": 3,
+                "category_id": 1,
+                "name": "Iphone 14 pro max"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "category_id": 1,
+            "name": "Iphone 15",
+            "categories": [
+              {
+                "id": 1,
+                "category_id": 1,
+                "name": "Iphone 15 mini"
+              },
+              {
+                "id": 2,
+                "category_id": 1,
+                "name": "Iphone 15 pro"
+              },
+              {
+                "id": 3,
+                "category_id": 1,
+                "name": "Iphone 15 pro max"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "category_id": 1,
+        "name": "Samsung Phones",
+        "categories": [
+          {
+            "id": 1,
+            "category_id": 1,
+            "name": "Samsung 21 ultra"
+          },
+          {
+            "id": 2,
+            "category_id": 1,
+            "name": "Samsung 22 ultra"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "category_id": 1,
+        "name": "Xiaomi Phones",
+        "categories": [
+          {
+            "id": 1,
+            "category_id": 1,
+            "name": "Redmi 12"
+          },
+          {
+            "id": 2,
+            "category_id": 1,
+            "name": "Redmi 12 note"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category_id": 2,
+    "name": "Watches",
+    "description": "Discover stylish and functional watches for every occasion.",
+    "image": "https://i5.walmartimages.com/seo/Smart-Watch-for-Android-and-iPhone-Ifanze-GTS5-IP68-Waterproof-Smartwatch-for-Women-Men-Smart-Watch-with-Bluetooth-Call-Answer-Make-Calls-Pink_fe11cf7b-c418-4efa-895a-f8802ff8eb0f.9c65571f793081b197ff1a869dd8c709.jpeg",
+    "categories": [
+      {
+        "id": 1,
+        "category_id": 2,
+        "name": "Smart Watches",
+        "categories": [
+          {
+            "id": 1,
+            "category_id": 2,
+            "name": "Apple Watch SE"
+          },
+          {
+            "id": 2,
+            "category_id": 2,
+            "name": "Garmin Forerunner 945"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "category_id": 2,
+        "name": "Galaxy",
+        "categories": [
+          {
+            "id": 1,
+            "category_id": 2,
+            "name": "Galaxy Watch 4"
+          },
+          {
+            "id": 2,
+            "category_id": 2,
+            "name": "Polar Vantage V2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category_id": 3,
+    "name": "Computers",
+    "description": "Find powerful computers and laptops for work and play.",
+    "image": "https://static2-ecemea.acer.com/media/catalog/product/_/_/___a__aspire-3-a315-58-a315-58g-sv_1000main_nx.addek.00l.png",
+    "categories": [
+      {
+        "id": 1,
+        "name": "MacBook",
+        "category_id": 3,
+        "categories": [
+          {
+            "id": 1,
+            "category_id": 3,
+            "name": "Mac mini"
+          },
+          {
+            "id": 2,
+            "category_id": 3,
+            "name": "Macbook pro"
+          },
+          {
+            "id": 3,
+            "category_id": 3,
+            "name": "Macbook M1 pro"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Acer",
+        "category_id": 3,
+        "categories": [
+          {
+            "id": 1,
+            "category_id": 3,
+            "name": "Acer aspire"
+          },
+          {
+            "id": 2,
+            "category_id": 3,
+            "name": "Acer Gaming"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "HP",
+        "categories": [
+          {
+            "id": 1,
+            "category_id": 3,
+            "name": "HP pavilione"
+          },
+          {
+            "id": 2,
+            "category_id": 3,
+            "name": "HP dragon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category_id": 4,
+    "name": "Electronics Accessories",
+    "description": "Shop for accessories like chargers, cases, and more.",
+    "image": "https://t4.ftcdn.net/jpg/03/28/37/93/360_F_328379347_xEKgEB2wkjAJmcqSTmrg4uKxfWrlL7D9.jpg",
+    "categories": [
+      {
+        "id": 1,
+        "category_id": 4,
+        "name": "Headphones"
+      },
+      {
+        "id": 2,
+        "category_id": 4,
+        "name": "Chargers"
+      },
+      {
+        "id": 3,
+        "category_id": 4,
+        "name": "Phone Cases"
+      }
+    ]
+  }
+]
